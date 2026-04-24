@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👨‍💻 Full Stack Developer
 
-<!--
-**mcl-rodrigues/mcl-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web com experiência sólida em front-end e back-end, atuando em aplicações web de médio e grande porte.
 
-Here are some ideas to get you started:
+Tenho forte vivência com **Vue.js no front-end** e **PHP no back-end**, com histórico em sistemas corporativos e integrações de APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente sigo em evolução contínua como desenvolvedor full stack, aprofundando conhecimentos tanto em back-end quanto em front-end, explorando novas tecnologias, arquiteturas e boas práticas de desenvolvimento moderno.
+
+---
+
+## 🧠 Stack principal
+
+**Front-end**
+- Vue.js, State management (Vuex / Pinia)
+- JavaScript (ES6+)
+- HTML5, CSS3, SASS
+- SPA, componentização
+- Consumo de APIs REST
+
+**Back-end**
+- PHP (Laravel e APIs REST)
+- Integração de sistemas
+
+**Banco de dados**
+- MySQL
+
+**Ferramentas**
+- Git / GitHub
+- Linux
+- Docker
+
+---
+
+## 📌 Objetivo atual
+
+Evoluir como desenvolvedor full stack moderno, com foco em arquitetura, escalabilidade e integração entre sistemas front-end e back-end.
+
+---
+
+## 🚀 Projetos
+
+### 🌐 CalculadoraDe (Tudo)
+- 🔗 https://calculadorade.com.br
+- 🧠 Plataforma com diversas ferramentas web utilitárias  
+- ⚙️ Stack: Javascript (Vanilla), Laravel
+
+### ⚽ Futebol Rankings
+- 🔗 https://futebolrankings.com.br
+- 🧠 Sistema de rankings e estatísticas de futebol com atualização dinâmica  
+- ⚙️ Stack: Javascript (Vanilla), Laravel, MySQL
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/marcelocrd/
