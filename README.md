@@ -13,7 +13,7 @@ Atualmente sigo em evolução contínua como desenvolvedor full stack, aprofunda
 **Front-end**
 - Vue.js, State management (Vuex / Pinia)
 - JavaScript (ES6+)
-- HTML5, CSS3, SASS
+- HTML5, CSS3, SASS, Bootstrap
 - SPA, componentização
 - Consumo de APIs REST
 
@@ -61,4 +61,4 @@ Prática contínua de lógica de programação, algoritmos e resolução de prob
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/marcelocrd/
+- LinkedIn: https://www.linkedin.com/in/marcelocrd
