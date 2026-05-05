@@ -51,14 +51,6 @@ Evoluir como desenvolvedor full stack moderno, com foco em arquitetura, escalabi
 
 ---
 
-## 📚 LeetCode
-
-Prática contínua de lógica de programação, algoritmos e resolução de problemas técnicos.
-
-🔗 https://leetcode.com/u/marcelo_dev
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/marcelocrd
