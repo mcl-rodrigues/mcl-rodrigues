@@ -1,4 +1,4 @@
-🇧🇷 Este README também está disponível em Português: [README em PT-BR](README.pt-BR.md)
+🇧🇷 Este README também está disponível em Português: [README em PT-BR](README.pt-br.md)
 
 # 👋 Hi, my name is Marcelo
 
