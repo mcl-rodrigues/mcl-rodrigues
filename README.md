@@ -61,14 +61,14 @@ SPA built with Vue 3 + Vite for address management using CEP lookup (ViaCEP), fe
 
 ## 🚀 Projects
 
-### 🌐 CalculadoraDe (Everything)
+### 🌐 CalculadoraDe (Tudo)
 🔗 https://calculadorade.com.br  
 🧠 Platform with various web utility tools  
 ⚙️ Stack: JavaScript (Vanilla), Laravel  
 
 ---
 
-### ⚽ Football Rankings
+### ⚽ Futebol Rankings
 🔗 https://futebolrankings.com.br  
 🧠 Football ranking and statistics system with dynamic updates  
 ⚙️ Stack: JavaScript (Vanilla), Laravel, MySQL  
