@@ -1,56 +1,78 @@
-# 👨‍💻 Full Stack Developer
+# 👋 Hi, my name is Marcelo
 
-Desenvolvedor web com experiência sólida em front-end e back-end, atuando em aplicações web de médio e grande porte.
+I am a Full Stack web developer with experience building medium and large-scale web applications.
 
-Tenho forte vivência com **Vue.js no front-end** e **PHP no back-end**, com histórico em sistemas corporativos e integrações de APIs.
+📍 Location: São Paulo - SP, Brazil
 
-Atualmente sigo em evolução contínua como desenvolvedor full stack, aprofundando conhecimentos tanto em back-end quanto em front-end, explorando novas tecnologias, arquiteturas e boas práticas de desenvolvimento moderno.
+I have strong experience with Vue.js on the front-end and PHP on the back-end, working with corporate systems, API integrations, and full web application development across the ecosystem.
+
+I am in constant learning and evolution in both front-end and back-end technologies, with a focus on building complete products from start to finish.
 
 ---
 
-## 🧠 Stack principal
+## 🧠 Skills
 
-**Front-end**
-- Vue.js, State management (Vuex / Pinia)
+### Front-end
+- Vue.js
 - JavaScript (ES6+)
 - HTML5, CSS3, SASS, Bootstrap
-- SPA, componentização
-- Consumo de APIs REST
+- SPA and component-based architecture
+- REST API consumption
 
-**Back-end**
-- PHP (Laravel e APIs REST)
-- Integração de sistemas
+### Back-end
+- PHP (Laravel and REST APIs)
 
-**Banco de dados**
+### Database
 - MySQL
 
-**Ferramentas**
+---
+
+## 🛠️ Tools
 - Git / GitHub
 - Linux
 - Docker
 
 ---
 
-## 📌 Objetivo atual
-
-Evoluir como desenvolvedor full stack moderno, com foco em arquitetura, escalabilidade e integração entre sistemas front-end e back-end.
-
----
-
-## 🚀 Projetos
-
-### 🌐 CalculadoraDe (Tudo)
-- 🔗 https://calculadorade.com.br
-- 🧠 Plataforma com diversas ferramentas web utilitárias  
-- ⚙️ Stack: Javascript (Vanilla), Laravel
-
-### ⚽ Futebol Rankings
-- 🔗 https://futebolrankings.com.br
-- 🧠 Sistema de rankings e estatísticas de futebol com atualização dinâmica  
-- ⚙️ Stack: Javascript (Vanilla), Laravel, MySQL
+## 📌 Processes & Methodologies
+- Scrum
+- Kanban
+- Agile development
 
 ---
 
-## 📫 Contato
+## 📌 Current Objective
+To grow as a full stack developer, focusing on building complete products, application architecture, and integration between front-end and back-end.
+
+---
+
+## 📌 Case Studies
+
+### 🎯 Front-end
+
+**Vue 3 Address Search**  
+SPA built with Vue 3 + Vite for address management using CEP lookup (ViaCEP), featuring full CRUD operations and local persistence with IndexedDB.
+
+🔗 Live Demo: https://vue3-address-search.vercel.app/
+
+---
+
+## 🚀 Projects
+
+### 🌐 CalculadoraDe (Everything)
+🔗 https://calculadorade.com.br  
+🧠 Platform with various web utility tools  
+⚙️ Stack: JavaScript (Vanilla), Laravel  
+
+---
+
+### ⚽ Football Rankings
+🔗 https://futebolrankings.com.br  
+🧠 Football ranking and statistics system with dynamic updates  
+⚙️ Stack: JavaScript (Vanilla), Laravel, MySQL  
+
+---
+
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/marcelocrd
