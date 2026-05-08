@@ -4,9 +4,9 @@ Sou desenvolvedor web Full Stack com experiência na construção de aplicaçõe
 
 📍 Localização: São Paulo - SP, Brasil
 
-Tenho forte vivência com Vue.js no front-end e PHP no back-end, atuando em sistemas corporativos, integrações de APIs e desenvolvimento de aplicações completas no ecossistema web.
+Tenho experiência em desenvolvimento front-end moderno utilizando frameworks como Vue.js, além de back-end com PHP/Laravel. Atuei em sistemas corporativos, integrações de APIs e no desenvolvimento de aplicações web completas.
 
-Em constante aprendizado e evolução com tecnologias de front-end e back-end, com foco em construir produtos completos do início ao fim.
+Estou em constante aprendizado e evolução, com foco em construir produtos completos do início ao fim.
 
 ---
 
