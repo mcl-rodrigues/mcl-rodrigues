@@ -6,9 +6,9 @@ I am a Full Stack web developer with experience building medium and large-scale 
 
 📍 Location: São Paulo - SP, Brazil
 
-I have strong experience with Vue.js on the front-end and PHP on the back-end, working with corporate systems, API integrations, and full web application development across the ecosystem.
+I have experience in modern front-end development using frameworks such as Vue.js, along with back-end development in PHP/Laravel. I have worked on corporate systems, API integrations, and full web application development.
 
-I am in constant learning and evolution in both front-end and back-end technologies, with a focus on building complete products from start to finish.
+I am in constant learning and evolution, with a focus on building complete products from start to finish.
 
 ---
 
