@@ -38,6 +38,8 @@ I am continuously evolving, with focus on building complete, scalable and mainta
 - Git / GitHub
 - Linux
 - Docker
+- VS Code
+- Postman
 
 ---
 
