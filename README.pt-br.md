@@ -58,13 +58,12 @@ Evoluir como desenvolvedor full stack, com foco em construção de produtos comp
 ### ⚙️ Back-end
 
 [Laravel Contract Flow](https://github.com/mcl-rodrigues/laravel-contract-flow)  
-Sistema full stack de gestão de contratos (mini ERP) desenvolvido com Laravel 13, Vue.js, PostgreSQL e Docker, com regras de negócio, precificação dinâmica e arquitetura de domínio estruturada.
+🔹Sistema full stack de gestão de contratos (mini ERP) desenvolvido com Laravel 13, Vue.js, PostgreSQL e Docker, com regras de negócio, precificação dinâmica e arquitetura de domínio estruturada.
 
 ### 🎨 Front-end
 
 [Vue 3 Address Search](https://github.com/mcl-rodrigues/vue3-address-search)  
-SPA com Vue 3 + Vite para gerenciamento de endereços via CEP (ViaCEP), com CRUD completo e persistência local usando IndexedDB.  
-
+🔹SPA com Vue 3 + Vite para gerenciamento de endereços via CEP (ViaCEP), com CRUD completo e persistência local usando IndexedDB.  
 🔗 Live Demo: https://vue3-address-search.vercel.app/
 
 ---
