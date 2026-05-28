@@ -1,18 +1,26 @@
 🇧🇷 Este README também está disponível em Português: [README em PT-BR](README.pt-br.md)
 
-# 👋 Hi, my name is Marcelo
+# 👋 Hi, my name is Marcelo!
 
 I am a Full Stack web developer with experience building medium and large-scale web applications.
 
 📍 Location: São Paulo - SP, Brazil
 
-I have experience in modern front-end development using frameworks such as Vue.js, along with back-end development in PHP/Laravel. I have worked on corporate systems, API integrations, and full web application development.
+I have experience building and maintaining web applications using PHP, Laravel and Vue.js.
 
-I am in constant learning and evolution, with a focus on building complete products from start to finish.
+I have worked on corporate systems, API integrations, legacy applications and full-stack development across different business domains, focusing on scalability, performance and maintainability.
+
+I am continuously evolving, with focus on building complete, scalable and maintainable products.
 
 ---
 
 ## 🧠 Skills
+
+### Back-end
+- PHP
+- Laravel
+- REST APIs
+- System integration
 
 ### Front-end
 - Vue.js
@@ -20,9 +28,6 @@ I am in constant learning and evolution, with a focus on building complete produ
 - HTML5, CSS3, SASS, Bootstrap
 - SPA and component-based architecture
 - REST API consumption
-
-### Back-end
-- PHP (Laravel and REST APIs)
 
 ### Database
 - MySQL
@@ -50,9 +55,14 @@ To grow as a full stack developer, focusing on building complete products, appli
 
 ## 📌 Case Studies
 
+### 🎯 Back-end
+
+**Laravel Contract Flow**
+Full-stack contract management system (mini ERP) built with Laravel 13, Vue.js, PostgreSQL and Docker, featuring business rules, dynamic pricing and structured domain architecture.
+
 ### 🎯 Front-end
 
-**Vue 3 Address Search**  
+**Vue 3 Address Search**
 SPA built with Vue 3 + Vite for address management using CEP lookup (ViaCEP), featuring full CRUD operations and local persistence with IndexedDB.
 
 🔗 Live Demo: https://vue3-address-search.vercel.app/
