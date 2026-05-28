@@ -15,13 +15,13 @@ Estou em constante evolução, com foco na construção de produtos completos, e
 ## 🧠 Habilidades
 
 ### Back-end
-- PHP
-- Laravel
+- PHP (POO, MVC)
+- Laravel (REST APIs, Eloquent ORM, Authentication, Middleware)
 - REST APIs
 - Integração de sistemas
 
 ### Front-end
-- Vue.js
+- Vue.js (Vuex, SPA)
 - JavaScript (ES6+)
 - HTML5, CSS3, SASS, Bootstrap
 - SPA e arquitetura baseada em componentes
@@ -33,36 +33,36 @@ Estou em constante evolução, com foco na construção de produtos completos, e
 ---
 
 ## 🛠️ Ferramentas
-- Git / GitHub
-- Linux
-- Docker
-- VS Code
-- Postman
+- Controle de versão: Git / GitHub
+- Containers: Docker
+- Ambiente: Linux
+- Desenvolvimento: VS Code
+- Testes de API: Postman
 
 ---
 
-## 📌 Processos e metodologia
+## 🧪 Processos e metodologia
 - Scrum
 - Kanban
 - Desenvolvimento ágil
 
 ---
 
-## 📌 Objetivo atual
+## 🧭 Objetivo atual
 Evoluir como desenvolvedor full stack, com foco em construção de produtos completos, arquitetura de aplicações e integração entre front-end e back-end.
 
 ---
 
-## 📌 Estudos de Caso
+## 📚 Estudos de Caso
 
-### 🎯 Back-end
+### ⚙️ Back-end
 
-**Laravel Contract Flow**  
+[Laravel Contract Flow](https://github.com/mcl-rodrigues/laravel-contract-flow)  
 Sistema full stack de gestão de contratos (mini ERP) desenvolvido com Laravel 13, Vue.js, PostgreSQL e Docker, com regras de negócio, precificação dinâmica e arquitetura de domínio estruturada.
 
-### 🎯 Front-end
+### 🎨 Front-end
 
-**Vue 3 Address Search**
+[Vue 3 Address Search](https://github.com/mcl-rodrigues/vue3-address-search)  
 SPA com Vue 3 + Vite para gerenciamento de endereços via CEP (ViaCEP), com CRUD completo e persistência local usando IndexedDB.  
 
 🔗 Live Demo: https://vue3-address-search.vercel.app/
