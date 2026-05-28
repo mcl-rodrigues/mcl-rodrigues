@@ -57,14 +57,14 @@ To grow as a full stack developer, focusing on building complete products, appli
 
 ## 📌 Case Studies
 
-### 🎯 Back-end
+### ⚙️ Back-end
 
-**[Laravel Contract Flow](https://github.com/mcl-rodrigues/laravel-contract-flow)**
+[Laravel Contract Flow](https://github.com/mcl-rodrigues/laravel-contract-flow)  
 Full-stack contract management system (mini ERP) built with Laravel 13, Vue.js, PostgreSQL and Docker, featuring business rules, dynamic pricing and structured domain architecture.
 
-### 🎯 Front-end
+### 🎨 Front-end
 
-**Vue 3 Address Search**
+[Vue 3 Address Search](https://github.com/mcl-rodrigues/vue3-address-search)  
 SPA built with Vue 3 + Vite for address management using CEP lookup (ViaCEP), featuring full CRUD operations and local persistence with IndexedDB.
 
 🔗 Live Demo: https://vue3-address-search.vercel.app/
