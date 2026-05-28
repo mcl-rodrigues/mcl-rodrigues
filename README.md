@@ -1,6 +1,7 @@
 🇧🇷 Este README também está disponível em Português: [README em PT-BR](README.pt-br.md)
 
 # 👋 Hi, my name is Marcelo!
+Full Stack Developer (PHP | Laravel | Vue.js | Javascript)
 
 I am a Full Stack web developer with experience building medium and large-scale web applications.
 
@@ -17,13 +18,13 @@ I am continuously evolving, with focus on building complete, scalable and mainta
 ## 🧠 Skills
 
 ### Back-end
-- PHP
-- Laravel
+- PHP (OOP, MVC)
+- Laravel (REST APIs, Eloquent ORM, Authentication, Middleware)
 - REST APIs
 - System integration
 
 ### Front-end
-- Vue.js
+- Vue.js (Vuex, SPA)
 - JavaScript (ES6+)
 - HTML5, CSS3, SASS, Bootstrap
 - SPA and component-based architecture
@@ -35,27 +36,27 @@ I am continuously evolving, with focus on building complete, scalable and mainta
 ---
 
 ## 🛠️ Tools
-- Git / GitHub
-- Linux
-- Docker
-- VS Code
-- Postman
+- Version Control: Git / GitHub
+- Containers: Docker
+- Environment: Linux
+- Development: VS Code
+- API Testing: Postman
 
 ---
 
-## 📌 Processes & Methodologies
+## 🧪 Processes & Methodologies
 - Scrum
 - Kanban
 - Agile development
 
 ---
 
-## 📌 Current Objective
+## 🧭 Current Objective
 To grow as a full stack developer, focusing on building complete products, application architecture, and integration between front-end and back-end.
 
 ---
 
-## 📌 Case Studies
+## 📚 Case Studies
 
 ### ⚙️ Back-end
 
