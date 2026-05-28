@@ -59,7 +59,7 @@ To grow as a full stack developer, focusing on building complete products, appli
 
 ### 🎯 Back-end
 
-**Laravel Contract Flow**
+**[Laravel Contract Flow](https://github.com/mcl-rodrigues/laravel-contract-flow)**
 Full-stack contract management system (mini ERP) built with Laravel 13, Vue.js, PostgreSQL and Docker, featuring business rules, dynamic pricing and structured domain architecture.
 
 ### 🎯 Front-end
