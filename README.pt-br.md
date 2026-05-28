@@ -1,26 +1,31 @@
-# 👋 Olá, me chamo Marcelo
+# 👋 Olá, me chamo Marcelo!
 
-Sou desenvolvedor web Full Stack com experiência na construção de aplicações web de médio e grande porte.
+Sou um desenvolvedor Full Stack com experiência na construção de aplicações web de médio e grande porte.
 
 📍 Localização: São Paulo - SP, Brasil
 
-Tenho experiência em desenvolvimento front-end moderno utilizando frameworks como Vue.js, além de back-end com PHP/Laravel. Atuei em sistemas corporativos, integrações de APIs e no desenvolvimento de aplicações web completas.
+Tenho experiência no desenvolvimento e manutenção de aplicações web utilizando PHP, Laravel e Vue.js.
 
-Estou em constante aprendizado e evolução, com foco em construir produtos completos do início ao fim.
+Atuei em sistemas corporativos, integrações via API, aplicações legadas e desenvolvimento full stack em diferentes domínios de negócio, com foco em escalabilidade, performance e manutenibilidade.
+
+Estou em constante evolução, com foco na construção de produtos completos, escaláveis e sustentáveis.
 
 ---
 
 ## 🧠 Habilidades
 
+### Back-end
+- PHP
+- Laravel
+- REST APIs
+- Integração de sistemas
+
 ### Front-end
 - Vue.js
 - JavaScript (ES6+)
 - HTML5, CSS3, SASS, Bootstrap
-- SPA e componentização
+- SPA e arquitetura baseada em componentes
 - Consumo de APIs REST
-
-### Back-end
-- PHP (Laravel e APIs REST)
 
 ### Banco de dados
 - MySQL
@@ -47,6 +52,11 @@ Evoluir como desenvolvedor full stack, com foco em construção de produtos comp
 ---
 
 ## 📌 Estudos de Caso
+
+### 🎯 Back-end
+
+**Laravel Contract Flow**  
+Sistema full stack de gestão de contratos (mini ERP) desenvolvido com Laravel 13, Vue.js, PostgreSQL e Docker, com regras de negócio, precificação dinâmica e arquitetura de domínio estruturada.
 
 ### 🎯 Front-end
 
