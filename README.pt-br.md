@@ -36,6 +36,8 @@ Estou em constante evolução, com foco na construção de produtos completos, e
 - Git / GitHub
 - Linux
 - Docker
+- VS Code
+- Postman
 
 ---
 
