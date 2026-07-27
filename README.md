@@ -71,22 +71,6 @@ To grow as a full stack developer, focusing on building complete products, appli
 
 ---
 
-## 🚀 Projects
-
-### 🌐 CalculadoraDe (Tudo)
-🔗 https://calculadorade.com.br  
-🧠 Platform with various web utility tools  
-⚙️ Stack: JavaScript (Vanilla), Laravel  
-
----
-
-### ⚽ Futebol Rankings
-🔗 https://futebolrankings.com.br  
-🧠 Football ranking and statistics system with dynamic updates  
-⚙️ Stack: JavaScript (Vanilla), Laravel, MySQL  
-
----
-
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/marcelocrd
