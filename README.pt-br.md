@@ -68,22 +68,6 @@ Evoluir como desenvolvedor full stack, com foco em construção de produtos comp
 
 ---
 
-## 🚀 Projetos
-
-### 🌐 CalculadoraDe (Tudo)
-🔗 https://calculadorade.com.br
-🧠 Plataforma com diversas ferramentas web utilitárias
-⚙️ Stack: JavaScript (Vanilla), Laravel
-
----
-
-### ⚽ Futebol Rankings
-🔗 https://futebolrankings.com.br
-🧠 Sistema de rankings e estatísticas de futebol com atualização dinâmica
-⚙️ Stack: JavaScript (Vanilla), Laravel, MySQL
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/marcelocrd
